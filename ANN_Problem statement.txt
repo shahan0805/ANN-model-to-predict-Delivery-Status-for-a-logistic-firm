@@ -1,0 +1,2 @@
+Q. Build an ANN model to predict Delivery Status for a logistic firm. (Refer fedex dataset)
+build code open anndocu.pdf code file name:fdx1ann.py dataset:fedex.csv
